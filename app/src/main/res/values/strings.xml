@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Newna</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="facebook_app_id">1131132246984933</string>
+
+
+</resources>
